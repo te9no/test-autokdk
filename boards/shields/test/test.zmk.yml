@@ -1,0 +1,11 @@
+
+file_format: "1"
+id: test
+name: test
+type: shield
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
