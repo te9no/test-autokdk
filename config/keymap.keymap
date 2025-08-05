@@ -7,10 +7,10 @@
 
         layer_0 {
             bindings = <
-&kp GRAVE       &kp Q         &kp W         &kp E        &kp R        &kp T  &kp Y  &kp I  &kp O     &kp P
-&kp TAB         &kp A         &kp S         &kp D        &kp F        &kp G  &kp H  &kp J  &kp K     &kp L
-&kp LEFT_SHIFT  &kp Z         &kp X         &kp C        &kp V        &kp B  &kp N  &kp M  &kp FSLH
-&kp LCTRL       &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 SPACE  &lt 2 SPACE         &none  &none  &none
+&kp GRAVE       &kp Q         &kp W         &kp E        &kp R        &kp T  &kp Y     &kp I           &kp O      &kp P
+&kp TAB         &kp A         &kp S         &kp D        &kp F        &kp G  &kp H     &kp J           &kp K      &kp L
+&kp LEFT_SHIFT  &kp Z         &kp X         &kp C        &kp V        &kp B  &kp N     &kp M           &kp UP
+&kp LCTRL       &kp LEFT_WIN  &kp LEFT_ALT  &lt 1 SPACE  &lt 2 SPACE         &kp LEFT  &kp DOWN_ARROW  &kp RIGHT
             >;
         };
 
